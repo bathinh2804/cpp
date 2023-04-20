@@ -30,6 +30,7 @@ void bubbleSort(int arr[], int n)
 
 void nhapmang(int a[], int n){
     for(int i=0;i<n;i++)
+    cout<<"nhap phan a["<<i<<"]"<<endl;
         cin>>a[i];
 }
 
